@@ -1,0 +1,173 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kappa.com" resolutions="1x" timestamp="1497594072295">
+  <folder name="assets">
+    <file name="index.html" crc="3920519320" seo="true" mt="1497431620000"/>
+    <file name="animation.prproj" crc="4203566980" seo="true" mt="1497364077000"/>
+    <file name="cool2312.avi" crc="369432931" seo="true" mt="1497431211000"/>
+    <file name="background-image-generator---siteorigin.html" crc="256856641" seo="true" mt="1497534085000"/>
+    <file name="cool2312_1.mov" crc="4289055092" seo="true" mt="1497588250000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4127497792" ref="index"/>
+    <file name="strategy.css" crc="4234996182" ref="strategy"/>
+    <file name="shooters.css" crc="3807679803" ref="shooters"/>
+    <file name="how-to-use.css" crc="4254213720" ref="how-to-use"/>
+    <file name="search.css" crc="120360067" ref="search"/>
+    <file name="faq.css" crc="32617166" ref="faq"/>
+    <file name="support.css" crc="355231635" ref="support"/>
+    <file name="genres.css" crc="450943688" ref="genres"/>
+    <file name="mmorpg.css" crc="202364272" ref="mmorpg"/>
+    <file name="simulation.css" crc="312762995" ref="simulation"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="museutils.js" crc="4232573551" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="require.js" crc="4234670167" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:shooters:strategy:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation"/>
+  </folder>
+  <folder name="images">
+    <file name="bglogo.png" crc="4064143129" seo="true" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation">
+      <caption webpage="thank-you-for-letting-us-know!" alt=""/>
+      <caption webpage="thank-you-for-letting-us-know!" alt=""/>
+      <caption webpage="mmorpg" alt=""/>
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="genre" alt=""/>
+      <caption webpage="simulation" alt=""/>
+      <caption webpage="how-to-use" alt=""/>
+      <caption webpage="mmmrpg" alt=""/>
+      <caption webpage="simulations" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="strategy" alt=""/>
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="cooltext247621040915330.png" crc="283868102" seo="true" ref="index:strategy:shooters:how-to-use:faq:support:search:genres:mmorpg:simulation">
+      <caption webpage="thank-you-for-letting-us-know!" alt=""/>
+      <caption webpage="thank-you-for-letting-us-know!" alt=""/>
+      <caption webpage="mmorpg" alt=""/>
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="genre" alt=""/>
+      <caption webpage="simulation" alt=""/>
+      <caption webpage="how-to-use" alt=""/>
+      <caption webpage="mmmrpg" alt=""/>
+      <caption webpage="simulations" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="strategy" alt=""/>
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="shooters:strategy:how-to-use:faq:support:search:genres:mmorpg:simulation">
+      <caption webpage="mmmrpg" alt=""/>
+      <caption webpage="mmorpg" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="simulations" alt=""/>
+      <caption webpage="genre" alt=""/>
+      <caption webpage="simulation" alt=""/>
+      <caption webpage="how-to-use" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="strategy" alt=""/>
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="u19547-4.png" crc="4007789709" ref="shooters"/>
+    <file name="u15517-4-a.png" crc="4028896370" ref="genres"/>
+    <file name="u13407-4-a.png" crc="389668978" ref="search"/>
+    <file name="u13900-4-a.png" crc="490894139" ref="support"/>
+    <file name="u14435-4-a.png" crc="3779976002" ref="faq"/>
+    <file name="u15012-4-a.png" crc="4276186317" ref="how-to-use"/>
+    <file name="u19847-4-a.png" crc="160519226" ref="shooters"/>
+    <file name="u19953-4.png" crc="4200550630" ref="index"/>
+    <file name="store_image_02.jpg" crc="154185708" seo="true" ref="shooters">
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="strategy" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="35381538" seo="true" ref="shooters">
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="strategy" alt=""/>
+    </file>
+    <file name="u21017-4.png" crc="4007789709" ref="strategy"/>
+    <file name="u21008-4.png" crc="467472108" ref="strategy"/>
+    <file name="u21459-4.png" crc="4007789709" ref="simulation"/>
+    <file name="u21450-4.png" crc="907165" ref="simulation"/>
+    <file name="headerjpg-t=1478763133.jpg" crc="3810418583" seo="true" ref="simulation">
+      <caption webpage="simulation" alt=""/>
+    </file>
+    <file name="maxresdefault (1).jpg" crc="4124141308" seo="true" ref="simulation">
+      <caption webpage="simulation" alt=""/>
+    </file>
+    <file name="u21936-4.png" crc="4007789709" ref="mmorpg"/>
+    <file name="u21927-4.png" crc="4005521929" ref="mmorpg"/>
+    <file name="logo-md-aqw.png" crc="3908481756" seo="true" ref="mmorpg">
+      <caption webpage="mmorpg" alt=""/>
+    </file>
+    <file name="maplestory.jpg" crc="4013637129" seo="true" ref="mmorpg">
+      <caption webpage="mmorpg" alt=""/>
+    </file>
+    <file name="1292504998medalofhonor.jpg" crc="231242642" seo="true" ref="genres">
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="strategy.jpg" crc="3912095830" seo="true" ref="genres">
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="thumb-1920-640377.jpg" crc="336658315" seo="true" ref="genres">
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="best-simulation-games-for-android-the-sims-free-play3.jpg" crc="259612373" seo="true" ref="genres">
+      <caption webpage="genres" alt=""/>
+    </file>
+    <file name="league.jpg" crc="3786540409" seo="true" ref="strategy">
+      <caption webpage="strategy" alt=""/>
+    </file>
+    <file name="ws_starcraft_2_1920x1200.jpg" crc="96554000" seo="true" ref="strategy">
+      <caption webpage="strategy" alt=""/>
+    </file>
+    <file name="d417e4f7.jpg" crc="3955076014" ref="search:support:faq:how-to-use:genres:shooters:index:strategy:simulation:mmorpg">
+      <caption webpage="how-to-use" alt=""/>
+      <caption webpage="how-to-use" alt=""/>
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="shooters" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="thank-you-for-letting-us-know!" alt=""/>
+      <caption webpage="thank-you-for-letting-us-know!" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="strategy" alt=""/>
+      <caption webpage="strategy" alt=""/>
+      <caption webpage="mmorpg" alt=""/>
+      <caption webpage="mmorpg" alt=""/>
+      <caption webpage="genres" alt=""/>
+      <caption webpage="genres" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="simulation" alt=""/>
+      <caption webpage="simulation" alt=""/>
+    </file>
+    <file name="pasted image 604x706.jpg" crc="3849701427" seo="true" ref="how-to-use">
+      <caption webpage="how-to-use" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="35161925" seo="true" mt="1497594021717" redirect="true"/>
+  <file name="strategy.html" crc="166939223" seo="true" mt="1497535992751" redirect="true"/>
+  <file name="shooters.html" crc="3830238726" seo="true" mt="1497535980533" redirect="true"/>
+  <file name="how-to-use.html" crc="57070881" seo="true" mt="1497535963600" redirect="true"/>
+  <file name="faq.html" crc="464107727" seo="true" mt="1497535968901" redirect="true"/>
+  <file name="support.html" crc="3767504804" seo="true" mt="1497536755907" redirect="true"/>
+  <file name="search.html" crc="175780118" seo="true" mt="1497535977694" redirect="true"/>
+  <file name="genres.html" crc="4267355768" seo="true" mt="1497594066096" redirect="true"/>
+  <file name="mmorpg.html" crc="19658802" seo="true" mt="1497535986069" redirect="true"/>
+  <file name="simulation.html" crc="4258428187" seo="true" mt="1497535990087" redirect="true"/>
+</manifest>
